@@ -47,7 +47,7 @@ export default {
   build: {},
 
   router: {
-    base: 'https://gonerman.github.io/keyboard-trainee/'
+    base: '/keyboard-trainee/'
   },
 
   target: 'static'
