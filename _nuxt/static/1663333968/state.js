@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fkeyboard-trainee\u002F_nuxt\u002Fstatic\u002F1663333968",layout:"default",error:a,state:{text:a,length:0},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fkeyboard-trainee\u002F",assetsPath:"\u002Fkeyboard-trainee\u002F_nuxt\u002F",cdnURL:a}}}}(null));
