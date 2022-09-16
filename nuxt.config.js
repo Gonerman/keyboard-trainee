@@ -48,5 +48,7 @@ export default {
 
   router: {
     base: 'https://gonerman.github.io/keyboard-trainee/'
-  }
+  },
+
+  target: 'static'
 }
